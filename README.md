@@ -12,7 +12,7 @@ Projeto criado a partir das aulas de [GraphQL](https://graphql.org/) do programa
 ### Entre na pasta do projeto
 `cd aula-gama-graphql`
 
-### Instale o pnpm
+### Instale o [pnpm](https://www.npmjs.com/package/pnpm)
 Caso não tenha instalado, instale:
 `pnpm i -g pnpm`
 
